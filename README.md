@@ -1,8 +1,7 @@
-# flutter_weather_app
-
-### Getting Started:
+# Sunshine APP
 This is flutter app which forecasts weather information of user's location. User can get weather condition by cityname. To forecast original weather data API is used. Relevant message will be shown according to weather condition.
 
+### Getting Started:
 
 **To start with this project follow these instructions -**
 
